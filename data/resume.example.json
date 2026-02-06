@@ -1,102 +1,132 @@
 {
-  "name": "FABRICIO TRINDADE",
-  "title": "Full Stack • Web Development",
-  "email": "example@email.com",
-  "phone_e164": "+10000000000",
+  "name": "NOME COMPLETO",
+  "title": "Título Profissional | Área de Atuação",
+  "email": "email@exemplo.com",
+  "phone_e164": "+5500000000000",
   "phone_display": "(00) 00000-0000",
-  "location": "Remote / Brazil",
-  "linkedin_url": "https://www.linkedin.com/in/example-profile",
-  "github_url": "https://github.com/example-user",
-  "website_url": "https://example.com",
+  "location": "Cidade - UF",
+  "linkedin_url": "https://www.linkedin.com/in/seu-linkedin",
+  "github_url": "https://github.com/seugithub",
 
-  "summary": "Computer Science student with a strong foundation in programming logic and hands-on experience building web applications and APIs. Familiar with cloud fundamentals, system troubleshooting, and structured problem-solving. Seeking an internship focused on cloud infrastructure, monitoring, and automation, with emphasis on clean architecture and ATS-friendly documentation.",
+  "summary": "Resumo profissional genérico descrevendo experiência, áreas de atuação, principais tecnologias e objetivos de carreira. Texto utilizado apenas como modelo, podendo ser substituído por um resumo real posteriormente.",
 
   "skills": [
     {
-      "group": "Programming",
-      "items": ["JavaScript", "Node.js", "HTML", "CSS", "SQL"]
+      "group": "Linguagens de Programação",
+      "items": ["JavaScript", "TypeScript", "Python"]
     },
     {
-      "group": "Frameworks",
-      "items": ["Next.js", "Express.js", "React"]
-    },
-    {
-      "group": "Databases",
-      "items": ["PostgreSQL", "MongoDB", "ORM concepts"]
-    },
-    {
-      "group": "Cloud & Infrastructure",
+      "group": "Frontend",
       "items": [
-        "Cloud fundamentals",
-        "Monitoring concepts",
-        "Networking basics",
-        "Linux basics"
+        "React",
+        "Next.js",
+        "Vue.js",
+        "React Native",
+        "HTML",
+        "CSS",
+        "SASS",
+        "Bootstrap",
+        "Tailwind CSS"
       ]
     },
     {
-      "group": "Tools",
-      "items": ["Git", "GitHub", "Docker", "CI/CD concepts"]
+      "group": "Backend",
+      "items": ["Node.js", "Express.js", "APIs REST"]
+    },
+    {
+      "group": "Bancos de Dados",
+      "items": ["PostgreSQL", "MongoDB", "MySQL"]
+    },
+    {
+      "group": "DevOps e Cloud",
+      "items": ["Docker", "AWS"]
+    },
+    {
+      "group": "Ferramentas e Versionamento",
+      "items": ["Git", "GitHub"]
+    },
+    {
+      "group": "Metodologias",
+      "items": ["Scrum", "Kanban", "ITIL"]
     }
   ],
 
   "projects": [
     {
-      "title": "Full Stack Web Application",
-      "stack": "Node.js, REST APIs, PostgreSQL",
+      "title": "Projeto Exemplo 1",
+      "stack": "Node.js, TypeScript",
       "bullets": [
-        "Designed and implemented a full stack web application with a clear separation of concerns",
-        "Built RESTful APIs with authentication and basic access control",
-        "Applied structured data modeling and version control best practices"
+        "Descrição genérica da funcionalidade principal do projeto",
+        "Integração entre diferentes camadas da aplicação",
+        "Aplicação de boas práticas de organização e código limpo"
       ],
       "links": [
         {
-          "label": "Repository",
-          "url": "https://github.com/example-user/sample-project"
+          "label": "Repositório",
+          "url": "https://github.com/seugithub/projeto-exemplo"
         }
       ]
     },
     {
-      "title": "Personal Automation Tool",
-      "stack": "JavaScript, Node.js",
+      "title": "Projeto Exemplo 2",
+      "stack": "React, Node.js, Express, MongoDB",
       "bullets": [
-        "Developed a small automation script to streamline repetitive tasks",
-        "Focused on code readability, maintainability, and documentation",
-        "Practiced modular design and error handling"
+        "Desenvolvimento de aplicação full stack",
+        "Criação e consumo de APIs REST",
+        "Persistência de dados em banco NoSQL",
+        "Implementação de validações e regras de negócio"
+      ],
+      "links": [
+        {
+          "label": "Aplicação em Produção",
+          "url": "https://app-exemplo.com"
+        },
+        {
+          "label": "Repositório Back-End",
+          "url": "https://github.com/seugithub/projeto-backend"
+        },
+        {
+          "label": "Repositório Front-End",
+          "url": "https://github.com/seugithub/projeto-frontend"
+        }
       ]
     }
   ],
 
   "experience": [
     {
-      "role": "Technical Support Analyst",
-      "company": "Example Technology Company",
-      "date": "2021 — Present",
+      "role": "Cargo Exemplo",
+      "company": "Empresa Exemplo",
+      "date": "2024 — Atual",
       "bullets": [
-        "Provided technical support and troubleshooting for systems and network-related issues",
-        "Assumed operational coordination responsibilities on multiple occasions, organizing tasks and prioritizing incidents",
-        "Communicated technical problems clearly to both technical and non-technical stakeholders"
+        "Responsabilidade ou atividade principal exercida",
+        "Atuação em resolução de problemas técnicos",
+        "Colaboração com equipes e documentação de processos"
       ]
     }
   ],
 
   "education": [
     {
-      "title": "Bachelor’s Degree in Computer Science",
-      "subtitle": "Example University",
-      "date": "In progress — Expected 2029"
-    },
+      "title": "Curso ou Formação",
+      "subtitle": "Instituição de Ensino",
+      "date": "2020 — 2024"
+    }
+  ],
+
+  "certifications": [
     {
-      "title": "Associate Degree in Systems Analysis and Development",
-      "subtitle": "Example University",
-      "date": "Completed — 2023"
+      "title": "Curso ou Certificação",
+      "subtitle": "Plataforma ou Instituição",
+      "date": "2024"
     }
   ],
 
   "languages": [
     {
-      "name": "English",
-      "level": "Intermediate",
-      "note": "Technical reading and conversational skills"
+      "name": "Idioma",
+      "level": "Nível",
+      "note": "Observação opcional"
     }
   ]
 }

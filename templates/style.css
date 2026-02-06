@@ -96,19 +96,29 @@ a {
   margin-top: 1px;
 }
 
-.bullets {
+/* adapte as classes necessárias de acordo com o param "section" de bulletsHtml */
+.experience-bullets,
+.project-bullets,
+.education-bullets,
+.certifications-bullets {
   list-style: none;
   margin-top: 4px;
 }
 
-.bullets li {
+.experience-bullets,
+.project-bullets,
+.education-bullets,
+.certifications-bullets li {
   padding-left: 12pt;
   position: relative;
   margin-bottom: 6px;
 }
 
-.bullets li::before {
-  content: "•";
+.experience-bullets,
+.project-bullets,
+.education-bullets,
+.certifications-bullets li::before {
+  content: '•';
   position: absolute;
   left: 0;
   font-weight: bold;
